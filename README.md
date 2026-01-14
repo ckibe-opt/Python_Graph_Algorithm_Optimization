@@ -6,7 +6,8 @@ This repository contains experiments and optimizations for graph algorithms in P
 
 Below is the benchmark image comparing average latencies (milliseconds) for three algorithms. Add the image file at `images/benchmark_networkx_vs_compiledgraph.png` (I've referenced it below). If you prefer, upload the image with that path in the repository so it displays here.
 
-![Benchmark: NetworkX vs CompiledGraph](images/benchmark_networkx_vs_compiledgraph.png)
+![Benchmark: NetworkX vs CompiledGraph]<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/32fcef19-a00b-4f4b-82e2-6b80cfd8ff2d" />
+
 
 Summary table (values read from the plotted bars):
 
